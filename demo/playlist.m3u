@@ -1,0 +1,15 @@
+#EXTM3U url-tvg="epg.xml"
+#EXTINF:-1 tvg-id="bbb.demo" tvg-name="Big Buck Bunny" tvg-logo="logos/bbb.svg" group-title="Open Movies",Big Buck Bunny
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="tos.demo" tvg-name="Tears of Steel" tvg-logo="logos/tos.svg" group-title="Open Movies",Tears of Steel
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="bipbop.demo" tvg-name="Apple BipBop 16:9" tvg-logo="logos/bipbop.svg" group-title="Test Streams",Apple BipBop 16:9
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="bipbopadv.demo" tvg-name="Apple BipBop Advanced" tvg-logo="logos/bipbopadv.svg" group-title="Test Streams",Apple BipBop Advanced
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="uslive.demo" tvg-name="Unified Streaming Live" tvg-logo="logos/uslive.svg" group-title="Test Streams",Unified Streaming Live
+https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8
+#EXTINF:-1 tvg-id="akamai.demo" tvg-name="Akamai Live Test" tvg-logo="logos/akamai.svg" group-title="Test Streams",Akamai Live Test
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="mux.demo" tvg-name="Mux Test Stream" tvg-logo="logos/mux.svg" group-title="Test Streams",Mux Test Stream
+https://test-streams.mux.dev/test_001/stream.m3u8

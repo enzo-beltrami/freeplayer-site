@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FreePlayer for LG TV</title>
+  <meta name="description" content="FreePlayer is an IPTV player for LG webOS TVs. Bring your own M3U playlist or Xtream Codes login.">
+  <link rel="icon" href="icon.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+  <header><img src="icon.png" alt=""><a href="./">FreePlayer</a></header>
+  <h1>An IPTV player for LG TVs</h1>
+  <p class="muted">Watch the live TV service you already subscribe to, on your LG webOS TV.</p>
+
+  <h2>Features</h2>
+  <ul>
+    <li>Connect an <strong>M3U playlist URL</strong> or an <strong>Xtream Codes</strong> login</li>
+    <li>Browse channels by group, with favorites and search</li>
+    <li>TV guide (XMLTV) with now/next info and a full programme grid</li>
+    <li>Built for the TV remote and the Magic Remote pointer</li>
+  </ul>
+
+  <div class="card">
+    <strong>FreePlayer does not provide any content.</strong> It doesn't include, sell or recommend
+    channels or playlists. You need your own subscription or playlist, and you should only use services
+    you are legally entitled to access.
+  </div>
+
+  <h2>Try it with the demo playlist</h2>
+  <p>To see how the app works, enter this playlist URL on the FreePlayer setup screen
+    (<em>M3U playlist URL</em> tab, EPG field left empty):</p>
+  <p><code id="demo-url">demo/playlist.m3u</code></p>
+  <p class="muted">It contains openly licensed films (Big Buck Bunny and Tears of Steel by the Blender Foundation,
+    CC BY 3.0) and public test streams, with a demo TV guide that refreshes daily.</p>
+
+  <h2>Support</h2>
+  <p>Questions or problems? Email <a href="mailto:contact@brenzo.dev">contact@brenzo.dev</a>.</p>
+
+  <footer><nav><a href="./">Home</a><a href="privacy.html">Privacy policy</a></nav></footer>
+</main>
+<script>
+  // Show the full demo playlist URL for wherever this site is hosted.
+  document.getElementById('demo-url').textContent = new URL('demo/playlist.m3u', location.href).href;
+</script>
+</body>
+</html>
