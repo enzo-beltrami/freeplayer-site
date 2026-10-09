@@ -9,7 +9,5 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
 #EXTINF:-1 tvg-id="uslive.demo" tvg-name="Unified Streaming Live" tvg-logo="logos/uslive.svg" group-title="Test Streams",Unified Streaming Live
 https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8
-#EXTINF:-1 tvg-id="akamai.demo" tvg-name="Akamai Live Test" tvg-logo="logos/akamai.svg" group-title="Test Streams",Akamai Live Test
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
 #EXTINF:-1 tvg-id="mux.demo" tvg-name="Mux Test Stream" tvg-logo="logos/mux.svg" group-title="Test Streams",Mux Test Stream
 https://test-streams.mux.dev/test_001/stream.m3u8

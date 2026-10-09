@@ -5,7 +5,6 @@
   <channel id="bipbop.demo"><display-name>Apple BipBop 16:9</display-name></channel>
   <channel id="bipbopadv.demo"><display-name>Apple BipBop Advanced</display-name></channel>
   <channel id="uslive.demo"><display-name>Unified Streaming Live</display-name></channel>
-  <channel id="akamai.demo"><display-name>Akamai Live Test</display-name></channel>
   <channel id="mux.demo"><display-name>Mux Test Stream</display-name></channel>
   <programme start="20261008000000 +0000" stop="20261008003000 +0000" channel="bbb.demo"><title>Big Buck Bunny</title><desc>Animated short film by the Blender Foundation (2008), licensed under Creative Commons Attribution 3.0.</desc></programme>
   <programme start="20261008003000 +0000" stop="20261008010000 +0000" channel="bbb.demo"><title>Big Buck Bunny</title><desc>Animated short film by the Blender Foundation (2008), licensed under Creative Commons Attribution 3.0.</desc></programme>
@@ -631,54 +630,6 @@
   <programme start="20261011180000 +0000" stop="20261011200000 +0000" channel="uslive.demo"><title>Live test stream</title><desc>Public live HLS demo stream from Unified Streaming.</desc></programme>
   <programme start="20261011200000 +0000" stop="20261011220000 +0000" channel="uslive.demo"><title>Live test stream</title><desc>Public live HLS demo stream from Unified Streaming.</desc></programme>
   <programme start="20261011220000 +0000" stop="20261012000000 +0000" channel="uslive.demo"><title>Live test stream</title><desc>Public live HLS demo stream from Unified Streaming.</desc></programme>
-  <programme start="20261008000000 +0000" stop="20261008020000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261008020000 +0000" stop="20261008040000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261008040000 +0000" stop="20261008060000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261008060000 +0000" stop="20261008080000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261008080000 +0000" stop="20261008100000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261008100000 +0000" stop="20261008120000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261008120000 +0000" stop="20261008140000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261008140000 +0000" stop="20261008160000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261008160000 +0000" stop="20261008180000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261008180000 +0000" stop="20261008200000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261008200000 +0000" stop="20261008220000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261008220000 +0000" stop="20261009000000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261009000000 +0000" stop="20261009020000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261009020000 +0000" stop="20261009040000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261009040000 +0000" stop="20261009060000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261009060000 +0000" stop="20261009080000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261009080000 +0000" stop="20261009100000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261009100000 +0000" stop="20261009120000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261009120000 +0000" stop="20261009140000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261009140000 +0000" stop="20261009160000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261009160000 +0000" stop="20261009180000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261009180000 +0000" stop="20261009200000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261009200000 +0000" stop="20261009220000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261009220000 +0000" stop="20261010000000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261010000000 +0000" stop="20261010020000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261010020000 +0000" stop="20261010040000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261010040000 +0000" stop="20261010060000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261010060000 +0000" stop="20261010080000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261010080000 +0000" stop="20261010100000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261010100000 +0000" stop="20261010120000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261010120000 +0000" stop="20261010140000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261010140000 +0000" stop="20261010160000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261010160000 +0000" stop="20261010180000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261010180000 +0000" stop="20261010200000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261010200000 +0000" stop="20261010220000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261010220000 +0000" stop="20261011000000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261011000000 +0000" stop="20261011020000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261011020000 +0000" stop="20261011040000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261011040000 +0000" stop="20261011060000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261011060000 +0000" stop="20261011080000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261011080000 +0000" stop="20261011100000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261011100000 +0000" stop="20261011120000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261011120000 +0000" stop="20261011140000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261011140000 +0000" stop="20261011160000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261011160000 +0000" stop="20261011180000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261011180000 +0000" stop="20261011200000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261011200000 +0000" stop="20261011220000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
-  <programme start="20261011220000 +0000" stop="20261012000000 +0000" channel="akamai.demo"><title>Live test stream</title><desc>Public live HLS test stream from Akamai.</desc></programme>
   <programme start="20261008000000 +0000" stop="20261008010000 +0000" channel="mux.demo"><title>Test stream</title><desc>Public HLS test stream from Mux.</desc></programme>
   <programme start="20261008010000 +0000" stop="20261008020000 +0000" channel="mux.demo"><title>Test stream</title><desc>Public HLS test stream from Mux.</desc></programme>
   <programme start="20261008020000 +0000" stop="20261008030000 +0000" channel="mux.demo"><title>Test stream</title><desc>Public HLS test stream from Mux.</desc></programme>

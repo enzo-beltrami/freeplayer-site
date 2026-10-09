@@ -28,11 +28,6 @@ export const channels = [
     title: 'Live test stream', desc: 'Public live HLS demo stream from Unified Streaming.',
   },
   {
-    id: 'akamai', name: 'Akamai Live Test', group: 'Test Streams', abbr: 'AK', colors: ['#3b82f6', '#06b6d4'],
-    url: 'https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8', block: 120,
-    title: 'Live test stream', desc: 'Public live HLS test stream from Akamai.',
-  },
-  {
     id: 'mux', name: 'Mux Test Stream', group: 'Test Streams', abbr: 'MX', colors: ['#f43f5e', '#f97316'],
     url: 'https://test-streams.mux.dev/test_001/stream.m3u8', block: 60,
     title: 'Test stream', desc: 'Public HLS test stream from Mux.',
